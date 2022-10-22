@@ -1,0 +1,23 @@
+programa {
+ui16 x;
+fun x (ui16 q) : ui16
+{
+ui16 z;
+q =: 1;
+If (x > 0.0) Then
+Return (x);
+Else
+Do {
+Do{
+If (y > x) Then
+{y =: x;
+Return (x);}
+Else
+{Return (y);}
+end_if;
+} until (y < 10) : (y =: y - 1);;
+} until (q > 10) : (q =: q + 1);;
+Return (z);
+end_if;
+}
+};

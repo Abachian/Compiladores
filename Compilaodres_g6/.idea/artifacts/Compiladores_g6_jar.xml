@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Compiladores_g6:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Compiladores_g6_jar</output-path>
+    <root id="archive" name="Compilaodres_g6.jar">
+      <element id="module-output" name="Compilaodres_g6" />
+    </root>
+  </artifact>
+</component>

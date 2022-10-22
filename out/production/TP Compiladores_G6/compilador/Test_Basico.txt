@@ -1,0 +1,12 @@
+prog {
+fun f3 (ui16 ccc ) : f64
+{
+f64 x;
+x =: 1.2;
+If (x > 0.0) Then
+Return (x);
+Else
+Return (x + 1.2);
+end_if;
+}
+};
